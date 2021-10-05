@@ -1,0 +1,13 @@
+.leftcard{
+    border-radius: 100%;
+}
+    
+.rightimg{
+    height: 20px;
+    width: 20px;
+}
+
+.agraynone{
+    text-decoration: none;
+    color: gray;
+}
