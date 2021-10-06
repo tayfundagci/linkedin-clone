@@ -1,3 +1,3 @@
 # LinkedIn Clone
 
-![Screenshot](linkedin.PNG)
+![Screenshot](linkedin1.PNG)
